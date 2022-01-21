@@ -24,6 +24,7 @@
 - 階段五 可 優化
 
 ### 第一期（導入初期）30 工作天
+
     - 課程商城(Java、Vuejs)
         - 目標：-
         - 人員：-
@@ -41,6 +42,7 @@
         - 人員：Java Developer、Larry
 
 ### 第二期（基本開發）30 工作天
+
     - 課程商城(Java、Vuejs)
         - 目標：階段二
         - 人員：Java Developer、Donald
@@ -58,6 +60,7 @@
         - 人員：Java Developer、Larry
 
 ### 第三期（進階開發）30 工作天
+
     - 課程商城(Java、Vuejs)
         - 目標：階段四
         - 人員：Java Developer、Donald
