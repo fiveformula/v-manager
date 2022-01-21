@@ -30,7 +30,7 @@
         - 人員：-
     - 教育平台(Java、Vuejs)
         - 目標：階段三
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer、Donald
     - 運維平台(Java、Vuejs)
         - 目標：階段二
         - 人員：Java Developer、Donald
@@ -39,40 +39,40 @@
         - 人員：-
     - V管家(Unity)
         - 目標：階段二
-        - 人員：Java Developer、Larry
+        - 人員：Larry、Kevin Yu
 
 ### 第二期（基本開發）30 工作天
 
     - 課程商城(Java、Vuejs)
         - 目標：階段二
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer、Donald
     - 教育平台(Java、Vuejs)
         - 目標：階段四
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer
     - 運維平台(Java、Vuejs)
         - 目標：階段三
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer
     - 創客平台(Java、Vuejs)
         - 目標：階段二
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer、Donald
     - V管家(Unity)
         - 目標：階段四
-        - 人員：Java Developer、Larry
+        - 人員：Larry、Kevin Yu
 
 ### 第三期（進階開發）30 工作天
 
     - 課程商城(Java、Vuejs)
         - 目標：階段四
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer
     - 教育平台(Java、Vuejs)
         - 目標：階段五
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer、Donald
     - 運維平台(Java、Vuejs)
         - 目標：階段四
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer
     - 創客平台(Java、Vuejs)
         - 目標：階段三
-        - 人員：Java Developer、Donald
+        - 人員：Larry、Java Developer
     - V管家(Unity)
         - 目標：階段五
-        - 人員：Java Developer、Larry
+        - 人員：Larry、Kevin Yu、Donald
